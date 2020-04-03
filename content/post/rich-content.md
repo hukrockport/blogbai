@@ -1,7 +1,7 @@
 +++
 author = "SpeakIn Editorial Team"
 date = 2020-04-01T00:00:00Z
-description = "COVID-19 pandemic has taken the world by storm and has already been declared an unprecedented event in the history of mankind. "
+description = "COVID-19 pandemic has taken the world by storm and has already been declared an unprecedented event in the history of mankind "
 feature_image = "/images/Article_Webinar.jpg"
 tags = ["covid19", "coronavirus", "survival"]
 title = "This time will never come back,reset and reinvent yourself!"
