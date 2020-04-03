@@ -1,59 +1,32 @@
 +++
-author = "Hugo Authors"
-title = "Placeholder Text"
-date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
-tags = [
-    "markdown",
-    "text",
-]
-feature_image = "/images/jason-briscoe-amLfrL8LGls-unsplash.jpg"
+author = "SpeakIn Editorial Team"
+date = 2020-02-09T18:30:00Z
+description = "At the dawn of 2020, while the world was celebrating New year’s eve, the China headquarters of the World Health Organization (WHO) came across a peculiar case of pneumonia in the city of Wuhan – the sprawling capital of the Hubei province. In a matter of just four days, the number of infected rose to 44. "
+feature_image = "/images/CoronaVirus.png"
+tags = ["Covid-19"]
+title = "Coronavirus and its Impact on the Global Economy"
+
 +++
+At the dawn of 2020, while the world was celebrating New year’s eve, the China headquarters of the World Health Organization (WHO) came across a peculiar case of pneumonia in the city of Wuhan – the sprawling capital of the Hubei province. In a matter of just four days, the number of infected rose to 44. The infection said to have originated from a mammal, a bat many speculate, was termed by experts as the **novel coronavirus (nCoV)** – a new strain of coronavirus which is responsible for infections like common cold and flu. The virus has since infected over 42,000 people and resulted in more than 1000 deaths in China alone. The nCoV causes an acute respiratory disease and has an incubation period ranging from 2 to 14 days. The symptoms of the infection are very similar to those of common flu, which is a reason why it’s extremely difficult to identify the type of infection. With no treatment so far and its fast-spreading capability (it has already spread to 28 countries), the WHO has declared nCoV a Public Health Emergency of International Concern.
 
-Lorem est tota propiore conpellat pectoribus de
-pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+The nCoV infection scare has had severe repercussions within China, as well as, worldwide. It has prompted the Government of China to take crucial steps such as implying travel and outdoor restrictions, thereby, affecting nearly 170 million people of the country. It also quarantined those suspected to have been infected by the lethal virus. Internationally, many nations have issued travel warnings against travel to Wuhan, Hubei, and China. Economically it is expected to shake-up the market in China, some expecting losses amounting to $445 billion.
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
+In this moment of global crisis, SpeakIn reached out to its experts to get a better understanding of the impacts of the virus on policy, businesses, and economy. Here is a look at what some of these opinion-makers from India Inc. had to say about epidemic of **novel coronavirus**:
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
-silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
-tractus malis.
+According to **Urvashi Prasad, Office of Vice Chairman, NITI Aayog,** “The coronavirus outbreak is undoubtedly a serious public health emergency given the potential for rapid human-to-human transmission across borders. The repercussions of any such outbreak are wide-ranging, adversely impacting human health, productivity, and economic growth. While there is no need for panic as India has taken the necessary steps thus far for curbing the spread of the virus, citizens must also follow the recommended precautions. At a broader level, this outbreak serves as a reminder of the need for building a strong and resilient public health system in the country.”
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+**Anu Acharya CEO, Mapmygenome India Limited** expresses her concern, “In a globalized world, any pandemic like the coronavirus can make a significant impact on the global economy, especially as China is a major manufacturing hub for the world. Science has come to the rescue, and we saw an unprecedented pace at which the genome was sequenced and how rapidly scientists are working together to come up with a cure. I hope that they can do so quickly and contain this novel virus. While this may spin the world into a recession, it is also possible that we may see some of the best innovative ideas spring up and come up with solutions the world may never have dreamt of earlier.”
 
-# Vagus elidunt
+While the travel restraints imposed by various countries are a measure to limit the spread of the disease, they also imply a move towards an economic disruption that would likely impact not only the world’s second-largest economy but also the rest of the world. China has, for decades, been a manufacturing and logistics hub for many companies across the globe. Its relentless integration has further led to an increase in the world’s dependence on it for key products and services. Today, China makes up roughly 16% of the global output. It also boasts substantial revenues from billions being spent in the tourism industry from across the world. The nCoV has proven to be a big jolt to the global economy because of the infection scare.
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+Furthermore, as the country grapples through nCoV epidemic, major tech companies, like Apple, Samsung, Microsoft, Google, etc. have temporarily shut down all corporate offices, manufacturing factories, and retail stores across China. Additionally, automakers like Hyundai Motor Co, Volkswagen AG, Toyota, General Motors have either suspended operations until further notice or have pushed back the date to resume production. This halt by businesses will not only lead to late releases and deliveries of expected cars, smartphone models and other tech-products but will also contribute towards a slowdown of the economy in the first quarter.
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
+While the mortality rate, luckily, has been very low, there still is no working cure or vaccine against the disease. As more and more people get infected across the world, proper hygiene and awareness is of utmost importance today to curb the spread until a vaccine is successfully developed against the infection.
 
-## Mane refeci capiebant unda mulcebat
+**Deepshikha Kumar, Founder, SpeakIn** comments on the epidemic “With border closures, air travel curtailed, factories and schools shut down, the outbreak can definitely be regarded as one of the worst health crises in decades. Additionally, with it rapidly spreading by the day, the virus is threatening to have a huge impact on the global economy. However, the current level of disruption can still be managed but only if the spread of nCoV slows down, and factories reopen soon.”
 
-Victa caducifer, malo vulnere contra
-dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
-furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+With this being the **year of the Rat**, which is characterized to be with spirit, wit, alertness, and vitality, hopefully, this Chinese zodiac animal will bring back prosperity in 2020.
 
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
-Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
-Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
-ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
-vulnus haerentia iuste et exercebat, sui et.
+**About SpeakIn**
 
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
-Propoetides **parte**.
-
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto;}
-</style>
-{{< /css.inline >}}
+SpeakIn hosts its wide base of experts on a highly curated web platform, which is set to witness a marked increase. The company has already set in place a strong compliance framework on data, privacy and IP across geographies, in-sync with the highest international standards and its focus continues to be on the quality of experts profiled.
