@@ -1,148 +1,33 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
+author = "SpeakIn Editorial Team"
+categories = ["themes", "syntax"]
+date = 2019-03-11T00:00:00Z
+description = "Often, we hear about how important it is to meet industry leaders in our fields to gain insights and valuable advice. But odds are you’ll find it super tough get a meeting on the books with Dr. Ashwani Lohani, former Chairman and MD of Air India to chat about businessturnaround or build a financial business with Former CEO of TATA AIA Mr. Suresh Mahalingam to chat about climbing the career ladder."
 feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
+series = ["Themes Guide"]
+tags = ["Business Transformation ", "Navigating your Business ", "Staying healthy ", "Business Continuity Planning ", "Online learning ", "Webinar", "Covid19"]
+title = "Want to learn Business Transformation from Shiv Shivakumar or Managing Business during crises from Aditya Ghosh? Now You Can."
+
 +++
+Often, we hear about how important it is to meet industry leaders in our fields to gain insights and valuable advice. But odds are you’ll find it super tough get a meeting on the books with Dr. Ashwani Lohani, former Chairman and MD of Air India to chat about business turnaround or build a financial business with Former CEO of TATA AIA Mr. Suresh Mahalingam to chat about climbing the career ladder.
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+The next best option is to virtually meet them — or Aditya Ghosh, Richard Rekhy, or one of 15,000 other top industry leaders globally — through SpeakIn. SpeakIn is an online platform that is bringing together some of today’s most famous and influential professionals as Experts and Advisors on one single forum. And there’s probably never been a better time to give it a try as we try to make the best of increased time at home owing to the global lockdown.
 
-## Headings
+Each online video comprises video interviews or webinars that give you alive virtual facetime with these career veterans, as well as a direct opportunity to ask them questions.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Some of the eye-catching webinars include:
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+**Aditya Ghosh – Navigating your Business through COVID-19**
 
-## Paragraph
+Aditya never went to business school and is a lawyer by training. But that didn’t stop him from becoming the President of IndiGo and turning it into India’s largest and most profitable airline. Eventually moving on towards becoming the Board Member of one of the world’s leading hotel chains – OYO, Aditya’s secret in his own words is being “ever-curious”. Aditya decodes in his webinar on how can businesses survive and possibly sail smoothly through the COVID-19 crisis.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+**Dr. Pradeep Chowbey – Staying healthy during COVID-19**
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Padma Shri Dr. Pradeep Chowbey has served as Honorary Surgeon to the President of India and His Holiness Dalai Lama. Hence, when a doctor of his stature has some advice related to health, everyone is all ears. The Vice Chairman of Max Institute of Healthcare, Dr. Chowbey shares his wisdom backed by decades of experience in the healthcare sector to help us stay safe in these unprecedented times.
 
-## Blockquotes
+**Richard Rekhy – Business Continuity Planning in the time of COVID-19**
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+The Board Member – Dubai and former CEO – India of one of the Big-4 giants KPMG, Richard is a strong management consulting and entrepreneurship professional with decades of experience in Enterprise Risk Management, Business Planning, Internal Audit, Accounting, and Customer Relationship Management. In his webinar, Richard takes us through mission-critical components of an effective business continuity strategy during the ongoing global crisis.
 
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
-
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
-| ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Item
-1. First Sub-item
-2. Second Sub-item
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
+“Online learning and webinars will become the new norm in the post-COVID era. Our first priority right now is that all health restores soon. Though CxO’s are well aware that they are staring into a fragmented workforce and are striving hard to keep employees engaged and motivated as they battle personal as well as professional challenges. Similarly, individuals are overwhelmed with information and are realizing that this can be one of the most critical pauses they will take in their lives where they can learn and reskill. And we are seeing a massive uptake in both these cases. Organizations are reaching out to us to schedule their customized learning sessions, at the same time individuals wanting to learn through various webinars.” Said Deepshikha Kumar, Founder SpeakIn.
