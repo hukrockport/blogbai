@@ -2,7 +2,7 @@
 aliases = ["migrate-from-jekyl"]
 author = "SpeakIn Editorial Team"
 categories = ["themes", "syntax"]
-date = 2019-03-11T00:00:00Z
+date = 2020-04-02T18:30:00Z
 description = "Often, we hear about how important it is to meet industry leaders in our fields to gain insights and valuable advice. But odds are you’ll find it super tough get a meeting on the books with Dr. Ashwani Lohani, former Chairman and MD of Air India to chat about businessturnaround or build a financial business with Former CEO of TATA AIA Mr. Suresh Mahalingam to chat about climbing the career ladder."
 feature_image = "/images/Article_Webinar.jpg"
 series = ["Themes Guide"]
