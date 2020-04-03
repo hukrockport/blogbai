@@ -14,11 +14,11 @@ SpeakIn presents yet another feature where we bring the thought leaders that mad
 **1. Bear Grylls**  
 Bear Grylls O.B.E. has become known worldwide as one of the most recognized faces of survival and outdoor adventure. He trended throughout the month for the upcoming episode on his real-life survival show Man vs. Wild with the superstar Rajnikanth. He is a phenomenal motivational speaker and in on of his talks he says, “It’s actually about the simple things that keep us moving through the dark nights that we all face from time to time, and about the things that keep us moving and smiling in the brighter days. So remember you are made amazing, stand tall and N.G.U. – Never Give Up.”!
 
+![Bear Grylls](/images/bear_gryll.jpg "Bear Grylls")
+
 **2. Sudha Murty**
 
 Philanthropist, acclaimed author, and the Chairperson of the Infosys Foundation Padma Shri Sudha Kulkarni Murthy, remained in the headlines for a variety reasons – her interviews in various forums, the launch of her book ‘The Gopi Diaries’, and the upcoming biopic based on her and Mr Murty’s life story. In a recent interview, she remarked “Gender equality doesn’t mean everything is half-half. There are certain rules for women and certain rules for men. It’s nature’s decision which you should not challenge.”
-
-!\[Sudha Murty\](https://i1.wp.com/www.speakin.co/edit/wp-content/uploads/2020/03/sudha.jpg?resize=600%2C400&ssl=1 =600x400)Sudha Murty
 
 **3. Richard Rekhy**
 
