@@ -1,9 +1,9 @@
 +++
-author = "SpeakINn"
+author = "SpeakIn"
 date = 2019-03-10T00:00:00Z
 description = "COVID-19 pandemic has taken the world by storm and has already been declared an unprecedented event in the history of mankind. "
 feature_image = "/images/Article_Webinar.jpg"
-tags = ["shortcodes", "privacy"]
+tags = ["covid19", "coronavirus", "survival"]
 title = "This time will never come back,reset and reinvent yourself!"
 
 +++
