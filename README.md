@@ -1,4 +1,4 @@
-# Casper 3 Hugo Starter for Forestry
+# SpeakIn Blog
 
 [Hugo port of the Casper 3 theme](https://github.com/jonathanjanssens/hugo-casper3) originally by Ghost.
 
