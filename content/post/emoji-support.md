@@ -1,48 +1,30 @@
 +++
-author = "Hugo Authors"
-title = "Emoji Support"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
-tags = [
-    "emoji",
-]
-feature_image = "/images/francesco-ungaro-GX81x7KTfIw-unsplash.jpg"
+author = "SpeakIn Editorial Team"
+date = 2020-03-03T18:30:00Z
+description = "She strives, she struggles, and she seeks to win every time. She makes up for 14 per cent, i.e. 8.05 million of the total 58.5 million business people in India, as per the sixth economic census released by the Ministry of Statistics and Programme Implementation (MoSPI). She is a woman, an entrepreneur."
+feature_image = "/images/Womens-Day.jpg"
+tags = ["Women Entrepreneurs", "Indian startup ecosystem", "Women’s Day"]
+title = "How conducive is the Indian startup ecosystem for women entrepreneurs?"
+
 +++
+She strives, she struggles, and she seeks to win every time. She makes up for 14 per cent, i.e. 8.05 million of the total 58.5 million business people in India, as per the sixth economic census released by the Ministry of Statistics and Programme Implementation (MoSPI). She is a woman, an entrepreneur.
 
-Emoji can be enabled in a Hugo project in a number of ways. 
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
+Compared to the global number of nearly 126 million women owning a business, the stats for India may seem nominal. However, it is still inspiring as for the Indian working women overcoming the deeply entrenched patriarchal norms and mindsets, and carving a niche in the male-dominated world of business in itself is commendable. Moreover, these new-age businesswomen are self-made, with not many of them belong to established business families. In fact, they come from all walks of life and from across the country as they challenge themselves and stand tall when facing stiff competition from the other gender in commerce.
 
-To enable emoji globally, set `enableEmoji` to `true` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+Though the argument isn’t about him vs her, the fact remains that the journey for female business owners hasn’t been an easy one. This is despite the nation being regarded as one of the best destinations to establish a startup across a range of sectors.
 
+**According to Dr Deepali Bhardwaj, Leading Dermatologist and Founder CEO Centre for Skin & Hair Pvt Ltd,** “Entrepreneurial journey is not always conducive, or easy, regardless of gender. But women multitask more and despite hardships, have broken the glass ceiling in various walks of life. As a woman doctor, I often feel that our gender is assumed to be less endowed by people in other walks of life. The sooner such myths or mindsets are abandoned, the better it will be.”
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
+Unfortunately, the reasons are more stereotypical than actual. The strong assumption that woman in business do not have the financial acumen and them being considered to be lesser risk-takers when compared with men anyhow puts them in a back foot when dealing with potential investors or business associates. These perceptions and corresponding attitudes result in many new entrepreneurs doubt themselves, their business skills, and abilities, which thus makes the entrepreneurial journey for them challenging.
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+But, it’s not all trials for the brave ladies who plunge into starting their company. The government has many favourable schemes such as **Stree Shakti Package for Woman Entrepreneurs** by SBI that grants concession and charge a lower rate of interest for a particular amount in case of majority ownership or **the Annapurna Scheme** that offers loans in the food catering business. Another promising scheme is for the **MSMEs sector** that provides loans of up to 1 crore within 59 minutes through an online portal.
 
-***
+Apart from these, there are some non-governmental projects designed for both monetary and guidance perspective. For instance, the **Saha Fund** is a first women-focused venture capital fund approved by the Securities and Exchange Board of India (SEBI). The **Woman Entrepreneurs India** is another scheme that educates, trains, supports and motivates women entrepreneurs from across the country with ideas.
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+**According to Dr Shweta Singh, Founder & CEO, ENNOBLE IP,** “When I first started my journey as an entrepreneur, I found that the startup ecosystem was not an exception to the prejudices that exist in the society against women. Starting from scratch and making my way up was not easy, and being a woman further exacerbated my hardships. I came across episodes of blatant sexism and misogyny, which were some core impediments in my journey. However, over the years, I have noticed an apparent change, as the ecosystem is evolving and becoming more accommodating to women entrepreneurs.”
 
-{{< highlight html >}}
-.emoji {
-font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-}
-{{< /highlight >}}
+**Smriti Tomar, Co-Founder & CEO, Stack Finance, however, is positive about the scenario as she explained,** “The Indian Startup Ecosystem for female entrepreneurs is currently thriving. In my opinion, it’s one of the best times to be a woman entrepreneur in India as not only is there support from the government but also various private accelerators and funds have begun exclusive programs for females. However, there’s still some acceleration required, especially on more women entrepreneurs supporting each and for looking up to. Only then will I say the ecosystem will be conducive enough.”
 
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-    .nowrap {
-	display: block;
-	margin: 25px 0;
-}
-}
-</style>
-{{< /css.inline >}}
+Even though there are positives, a recent survey conducted by technology major Dell and consultancy firm IHS ranked only two Indian cities-Bengaluru and Delhi in 40th and 49th position in the _50 most favorable global places for females to work_.
+
+**Outlining the overall scenario, Deepshikha Kumar, Founder,** [**SpeakIn**](https://www.speakin.co/ "SpeakIn") **said,** “India is a challenging market to start a business. But, when it comes to women entrepreneurs, traditionally the market has been unfair majorly because of the unconscious bias. Luckily, this scenario is gradually changing as the focus is shifting towards a good idea than the gender behind it. Today, the opportunities are improving as a result of established female entrepreneurs coming forward and providing mentorship, financing assistance and the necessary connects. Moreover, even the investors are springing the accelerator program to provide equal footing to females in the business world.” To sum up, on one hand, there is a section that doubts a firm business idea and strong belief just because it comes from a woman, on the other, the country backs up its all-women team to launch India’s first interplanetary mission to Mars.
