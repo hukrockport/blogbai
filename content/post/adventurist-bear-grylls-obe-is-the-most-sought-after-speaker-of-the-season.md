@@ -12,11 +12,7 @@ title = "Adventurist Bear Grylls OBE is the Most Sought-after Speaker of the Sea
 SpeakIn presents yet another feature where we bring the thought leaders that made headlines across domains and influenced opinions. On the release of the February 2020 issue, Deepshikha Kumar, Founder and Managing Partner of SpeakIn, comments, “In this connected world that we have today, it’s easy to get lost in information, where beliefs are amplified and reinforced by communication and repetition inside a closed system. SpeakIn aims to break through these echo chambers by bringing the most relevant content through our curation systems.”
 
 **1. Bear Grylls**  
-Bear Grylls O.B.E. has become known worldwide as one of the most recognized faces of survival and outdoor adventure. He trended throughout the month for the upcoming episode on his real-life survival show Man vs. Wild with the superstar Rajnikanth. He is a phenomenal motivational speaker and in on of his talks he says, “It’s actually about the simple things that keep us moving through the dark nights that we all face from time to time, and about the things that keep us moving and smiling in the brighter days. So remember you are made amazing, stand tall and N.G.U. – Never Give Up.”
-
-![](https://i1.wp.com/www.speakin.co/edit/wp-content/uploads/2020/03/bear_gryll.jpg)
-
-![](/images/bear_gryll.jpg)
+Bear Grylls O.B.E. has become known worldwide as one of the most recognized faces of survival and outdoor adventure. He trended throughout the month for the upcoming episode on his real-life survival show Man vs. Wild with the superstar Rajnikanth. He is a phenomenal motivational speaker and in on of his talks he says, “It’s actually about the simple things that keep us moving through the dark nights that we all face from time to time, and about the things that keep us moving and smiling in the brighter days. So remember you are made amazing, stand tall and N.G.U. – Never Give Up.”!
 
 **2. Sudha Murty**
 
