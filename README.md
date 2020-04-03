@@ -11,7 +11,7 @@
 
 ## Content Management
 
-![Forestry user interface](static/images/hugo-casper3-forestry.jpg)
+![Forestry user interface](static/images/logo-new.png)
 
 This project has been pre-configured to work with [Forestry](https://forestry.io), just import your repository ✨. \
 Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
