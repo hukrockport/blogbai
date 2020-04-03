@@ -2,7 +2,6 @@
 author = "SpeakIn Editorial Team"
 date = 2020-03-17T18:39:01Z
 description = "The three primary ingredients of a successful movie are- a strong storyline, a compelling script and a happy ending. However, the following tale just has a plot and screenplay."
-draft = true
 feature_image = "/images/Expert-Opinions-IV-EDIT.-2.png"
 tags = ["banking", "Business", "finance", "debt"]
 title = "Yes Bank: The Rise and Downfall Explained"
