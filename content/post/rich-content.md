@@ -1,6 +1,6 @@
 +++
-author = "SpeakIn"
-date = 2019-03-10T00:00:00Z
+author = "SpeakIn Editorial Team"
+date = 2020-04-01T00:00:00Z
 description = "COVID-19 pandemic has taken the world by storm and has already been declared an unprecedented event in the history of mankind. "
 feature_image = "/images/Article_Webinar.jpg"
 tags = ["covid19", "coronavirus", "survival"]
