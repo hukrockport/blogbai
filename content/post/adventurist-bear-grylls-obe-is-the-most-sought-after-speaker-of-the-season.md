@@ -16,6 +16,8 @@ Bear Grylls O.B.E. has become known worldwide as one of the most recognized face
 
 ![](https://i1.wp.com/www.speakin.co/edit/wp-content/uploads/2020/03/bear_gryll.jpg)
 
+![](/images/bear_gryll.jpg)
+
 **2. Sudha Murty**
 
 Philanthropist, acclaimed author, and the Chairperson of the Infosys Foundation Padma Shri Sudha Kulkarni Murthy, remained in the headlines for a variety reasons – her interviews in various forums, the launch of her book ‘The Gopi Diaries’, and the upcoming biopic based on her and Mr Murty’s life story. In a recent interview, she remarked “Gender equality doesn’t mean everything is half-half. There are certain rules for women and certain rules for men. It’s nature’s decision which you should not challenge.”
