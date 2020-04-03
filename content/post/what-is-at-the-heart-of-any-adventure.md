@@ -2,7 +2,6 @@
 author = "Prem Kumar Singh"
 date = 2020-02-10T17:26:51Z
 description = "I have been meeting a lot of people nowadays who are venturing into mountaineering with the goal of climbing Mount Everest. While some of these people have a genuine interest in the sport, a vast majority seem a little lost about the actual idea behind why we go on expeditions and why we undertake these adventures."
-draft = true
 feature_image = "/images/mountaineering-prem.jpg"
 tags = ["Adventures", "Travelling", "Happy Life", "Lifestyle"]
 title = "What is at the heart of any Adventure?"
