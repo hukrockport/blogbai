@@ -23,3 +23,5 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
+pages:
+- content/post/adventurist-bear-grylls-obe-is-the-most-sought-after-speaker-of-the-season.md
