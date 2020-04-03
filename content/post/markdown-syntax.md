@@ -7,7 +7,7 @@ description = "Often, we hear about how important it is to meet industry leaders
 feature_image = "/images/Article_Webinar.jpg"
 series = ["Themes Guide"]
 tags = ["Business Transformation ", "Navigating your Business ", "Staying healthy ", "Business Continuity Planning ", "Online learning ", "Webinar", "Covid19"]
-title = "Want to learn Business Transformation from Shiv Shivakumar or Managing Business during crises from Aditya Ghosh? Now You Can."
+title = "Want to learn Business Transformation? Now You Can."
 
 +++
 Often, we hear about how important it is to meet industry leaders in our fields to gain insights and valuable advice. But odds are you’ll find it super tough get a meeting on the books with Dr. Ashwani Lohani, former Chairman and MD of Air India to chat about business turnaround or build a financial business with Former CEO of TATA AIA Mr. Suresh Mahalingam to chat about climbing the career ladder.
