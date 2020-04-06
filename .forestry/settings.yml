@@ -23,6 +23,10 @@ sections:
   label: Homepage
   create: all
   match: "**/*"
+- type: document
+  path: config.toml
+  label: Config
+  match: "**/*"
 - type: heading
   label: Docs
 - type: document
